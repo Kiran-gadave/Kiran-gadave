@@ -1,30 +1,50 @@
-<h1 align="center">Hi 👋, I'm Kiran Gadave</h1>
-<h3 align="center">A passionate developer and tech enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Kiran</h1>
 
-- 🔭 I’m currently working on **Data Visualization and Web Development Projects**
-- 🌱 I’m learning **Django, React, and APIs**
-- 💬 Ask me about **Python, HTML, CSS, Git**
-- 📫 Email: kirangadave123@gmail.com
+<div align="center"> <img src="https://github.com/anmol8070/anmol8070/blob/main/_LinkedIn%20Banner.png" width="2000" height="280"> </div>
 
----
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### 🛠️ Languages and Tools:
+#### **Visitor Count**
+![Visitor Count](https://profile-counter.glitch.me/{anmol8070}/count.svg)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmol8070&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol8070&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
-### 📊 GitHub Stats:
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="mailto:kirangadave2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/kiran-gadave-a94594321/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/kiran_____7111/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+</div>
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-gadave&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran-gadave&theme=tokyonight" alt="GitHub streak" />
+    <img src="https://github.com/anmol8070/anmol8070/blob/main/gif3.gif" height="250" />
+   <img src="https://github.com/anmol8070/anmol8070/blob/main/gif4.gif" height="250" />
 </p>
