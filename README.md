@@ -45,6 +45,6 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/anmol8070/anmol8070/blob/main/gif3.gif" height="250" />
+    <img src="https://avatars.githubusercontent.com/u/177394052?s=400&u=8a522ed623d106a026aa7707d3786e331135efbb&v=4" height="250" />
    <img src="https://github.com/anmol8070/anmol8070/blob/main/gif4.gif" height="250" />
 </p>
