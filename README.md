@@ -20,11 +20,23 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-gadave&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran-gadave&theme=tokyonight" alt="GitHub streak" />
+    <img src="https://github.com/anmol8070/anmol8070/blob/main/gif3.gif" height="250" />
+   <img src="https://github.com/anmol8070/anmol8070/blob/main/gif4.gif" height="250" />
 </p>
